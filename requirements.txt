@@ -1,0 +1,10 @@
+ultralytics
+torch
+torchvision
+opencv-python
+streamlit
+fastapi
+uvicorn
+pillow
+numpy
+pyyaml
